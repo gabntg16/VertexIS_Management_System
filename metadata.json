@@ -1,0 +1,8 @@
+{
+  "name": "VertexIS - Marsh Bites Branch System",
+  "description": "Enterprise multi-branch franchise management system for The Marsh Bites featuring branch applications, compliance document verification, automated role-based account provisioning, lifecycle status controls, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
